@@ -1,0 +1,5 @@
+Emp001,Eve White,evew@example.com,password123,0,10
+Emp002,Mason Green,masong@example.com,password123,0,10
+Emp003,Lucy Black,lucyb@example.com,password123,0,10
+Emp004,Oscar Yellow,oscary@example.com,password123,0,10
+Emp005,Lily Blue,lilyb@example.com,password123,0,10

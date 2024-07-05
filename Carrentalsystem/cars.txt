@@ -1,0 +1,6 @@
+Car004,Nissan Altima,1,100,,
+Car001,Toyota Camry,0,98,2024-03-03 14:29:15,
+Car002,Honda Accord,0,100,2024-03-03 14:33:56,
+Car003,Ford Focus,0,100,2024-03-03 14:43:20,
+Car005,Chevrolet Impala,0,100,2024-03-03 14:45:45,
+Car006,benz,0,100,2024-03-03 18:06:00,
